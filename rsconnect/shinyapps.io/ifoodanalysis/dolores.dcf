@@ -1,0 +1,13 @@
+name: dolores
+title: dolores
+username:
+account: ifoodanalysis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5623289
+bundleId: 5690773
+url: https://dolores.shinyapps.io/dolores/
+when: 1647429844.6228
+lastSyncTime: 1647429844.6228
+asMultiple: FALSE
+asStatic: FALSE
